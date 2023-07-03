@@ -1,6 +1,6 @@
-- 👋 Hi, @e-serenity
-- 👀 DevOps
-- 💞️ Interested in Crypto
+- 👋 Hi, @E_Serenity_Dev
+- 👀 DevOps & Gaming
+- 💞️ Crypto Lovers
 - 📫 https://e-serenity.fr
 
 <!---
